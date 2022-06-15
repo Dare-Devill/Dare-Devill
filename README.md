@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dare-Devill](https://github.com/Dare-Devill)
 
-- 📝 I regularly write articles on my Telegram Channel [https://telegram.me/Pratham_bots](https://telegram.me/Pratham_bots)
+- 📝 I regularly write articles on my [Telegram Channel](https://telegram.me/Pratham_Projects)
 
 - 💬 Ask me about **Python, PHP**
 
