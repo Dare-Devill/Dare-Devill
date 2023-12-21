@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Python, PHP**
 
-- 📫 How to reach me **prathammishraji@gmail.com**
+- 📫 How to reach me [Telegram](https://telegram.me/Prathxm_vai)
 
 - ⚡ Fun fact **I love to code at night 🌃**
 
